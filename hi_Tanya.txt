@@ -1,0 +1,5 @@
+privet
+
+Press F2 to save
+
+And F10 to exit
